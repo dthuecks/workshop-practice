@@ -1,0 +1,48 @@
+<!-- 
+Original:
+
+\begin{theorem}
+
+For any value of $x$, we have $\sin^2(x) + \cos^2(x)=1$.
+
+\end{theorem}
+
+Here is a paragraph that has a word that is *emphasized* like this, as in Markdown. 
+
+You might list your favorite fruits: 
+
+- Apples
+
+- Bananas
+
+
+-->
+
+
+<theorem>
+  <statement>
+    <p>
+      For any value of <m>x</m>, we have <m>\sin^2(x) + \cos^2(x)=1</m>.
+    </p>
+  </statement>
+</theorem>
+
+<p>
+  Here is a paragraph that has a word that is <em>emphasized</em> like this, as in Markdown.
+</p>
+
+<p>
+  You might list your favorite fruits:
+</p>
+
+<p>
+  <ul>
+    <li>
+      Apples
+    </li>
+
+    <li>
+      Bananas
+    </li>
+  </ul>
+</p>
